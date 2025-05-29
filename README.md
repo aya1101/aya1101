@@ -42,6 +42,9 @@
 
 ---
 
+
+
+<h3 align="center" > <img src="https://www.gifcen.com/wp-content/uploads/2022/06/anime-girl-gif-6.gif" width="200"  style="margin-right: 10px;"></h3>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -56,10 +59,5 @@
       </div>
 
 </p>
-
----
-
-
-<h3 align="center" > <img src="https://www.gifcen.com/wp-content/uploads/2022/06/anime-girl-gif-6.gif" width="200"  style="margin-right: 10px;"></h3>
 <h3 align = "center"> (☞ﾟヮﾟ)☞ よろしくお願いします！ ☜(ﾟヮﾟ☜)</h3>
 
