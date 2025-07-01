@@ -3,7 +3,6 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👨‍💻 I’m an undergraduate student majoring in **Mathematics and Computer Science** at VNU – University of Science.  
-- 📚 I’m currently learning everything about deep learning frameworks and NLP technologies :>
 - 💞️ I’m looking to collaborate on open-source AI projects or research involving social impact, language, or interdisciplinary applications.  
 - 👀 I’m interested in Japanese language and culture, which has inspired my passion for Natural Language Processing and understanding how humans and machines interact through languages 
 - ⚡ Fun fact: I love to enjoy my favorite novels and comics.
